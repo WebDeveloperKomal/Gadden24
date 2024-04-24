@@ -1,16 +1,16 @@
-$flaticon_gadden-font: "flaticon_gadden";
+$flaticon_Tulja GreenScape-font: "flaticon_Tulja GreenScape";
 
 @font-face {
-    font-family: $flaticon_gadden-font;
-    src: url("./flaticon_gadden.ttf?3d06d778ac5c423806f51e542af33f69") format("truetype"),
-url("./flaticon_gadden.woff?3d06d778ac5c423806f51e542af33f69") format("woff"),
-url("./flaticon_gadden.woff2?3d06d778ac5c423806f51e542af33f69") format("woff2"),
-url("./flaticon_gadden.eot?3d06d778ac5c423806f51e542af33f69#iefix") format("embedded-opentype"),
-url("./flaticon_gadden.svg?3d06d778ac5c423806f51e542af33f69#flaticon_gadden") format("svg");
+    font-family: $flaticon_Tulja GreenScape-font;
+    src: url("./flaticon_Tulja GreenScape.ttf?3d06d778ac5c423806f51e542af33f69") format("truetype"),
+url("./flaticon_Tulja GreenScape.woff?3d06d778ac5c423806f51e542af33f69") format("woff"),
+url("./flaticon_Tulja GreenScape.woff2?3d06d778ac5c423806f51e542af33f69") format("woff2"),
+url("./flaticon_Tulja GreenScape.eot?3d06d778ac5c423806f51e542af33f69#iefix") format("embedded-opentype"),
+url("./flaticon_Tulja GreenScape.svg?3d06d778ac5c423806f51e542af33f69#flaticon_Tulja GreenScape") format("svg");
 }
 
 i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
-    font-family: flaticon_gadden !important;
+    font-family: flaticon_Tulja GreenScape !important;
     font-style: normal;
     font-weight: normal !important;
     font-variant: normal;
@@ -20,7 +20,7 @@ i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
     -moz-osx-font-smoothing: grayscale;
 }
 
-$flaticon_gadden-map: (
+$flaticon_Tulja GreenScape-map: (
     "carnivorous-plant": "\f101",
     "watering-plants": "\f102",
     "shovels": "\f103",
@@ -61,113 +61,113 @@ $flaticon_gadden-map: (
 );
 
 .flaticon-carnivorous-plant:before {
-    content: map-get($flaticon_gadden-map, "carnivorous-plant");
+    content: map-get($flaticon_Tulja GreenScape-map, "carnivorous-plant");
 }
 .flaticon-watering-plants:before {
-    content: map-get($flaticon_gadden-map, "watering-plants");
+    content: map-get($flaticon_Tulja GreenScape-map, "watering-plants");
 }
 .flaticon-shovels:before {
-    content: map-get($flaticon_gadden-map, "shovels");
+    content: map-get($flaticon_Tulja GreenScape-map, "shovels");
 }
 .flaticon-gardening:before {
-    content: map-get($flaticon_gadden-map, "gardening");
+    content: map-get($flaticon_Tulja GreenScape-map, "gardening");
 }
 .flaticon-plant:before {
-    content: map-get($flaticon_gadden-map, "plant");
+    content: map-get($flaticon_Tulja GreenScape-map, "plant");
 }
 .flaticon-landscape:before {
-    content: map-get($flaticon_gadden-map, "landscape");
+    content: map-get($flaticon_Tulja GreenScape-map, "landscape");
 }
 .flaticon-sea-waves:before {
-    content: map-get($flaticon_gadden-map, "sea-waves");
+    content: map-get($flaticon_Tulja GreenScape-map, "sea-waves");
 }
 .flaticon-industry:before {
-    content: map-get($flaticon_gadden-map, "industry");
+    content: map-get($flaticon_Tulja GreenScape-map, "industry");
 }
 .flaticon-microscope:before {
-    content: map-get($flaticon_gadden-map, "microscope");
+    content: map-get($flaticon_Tulja GreenScape-map, "microscope");
 }
 .flaticon-bus-stop:before {
-    content: map-get($flaticon_gadden-map, "bus-stop");
+    content: map-get($flaticon_Tulja GreenScape-map, "bus-stop");
 }
 .flaticon-pruning-shears:before {
-    content: map-get($flaticon_gadden-map, "pruning-shears");
+    content: map-get($flaticon_Tulja GreenScape-map, "pruning-shears");
 }
 .flaticon-gardening-1:before {
-    content: map-get($flaticon_gadden-map, "gardening-1");
+    content: map-get($flaticon_Tulja GreenScape-map, "gardening-1");
 }
 .flaticon-growth:before {
-    content: map-get($flaticon_gadden-map, "growth");
+    content: map-get($flaticon_Tulja GreenScape-map, "growth");
 }
 .flaticon-village:before {
-    content: map-get($flaticon_gadden-map, "village");
+    content: map-get($flaticon_Tulja GreenScape-map, "village");
 }
 .flaticon-farm:before {
-    content: map-get($flaticon_gadden-map, "farm");
+    content: map-get($flaticon_Tulja GreenScape-map, "farm");
 }
 .flaticon-gardener:before {
-    content: map-get($flaticon_gadden-map, "gardener");
+    content: map-get($flaticon_Tulja GreenScape-map, "gardener");
 }
 .flaticon-field:before {
-    content: map-get($flaticon_gadden-map, "field");
+    content: map-get($flaticon_Tulja GreenScape-map, "field");
 }
 .flaticon-gardening-tools:before {
-    content: map-get($flaticon_gadden-map, "gardening-tools");
+    content: map-get($flaticon_Tulja GreenScape-map, "gardening-tools");
 }
 .flaticon-agriculture:before {
-    content: map-get($flaticon_gadden-map, "agriculture");
+    content: map-get($flaticon_Tulja GreenScape-map, "agriculture");
 }
 .flaticon-field-1:before {
-    content: map-get($flaticon_gadden-map, "field-1");
+    content: map-get($flaticon_Tulja GreenScape-map, "field-1");
 }
 .flaticon-farming:before {
-    content: map-get($flaticon_gadden-map, "farming");
+    content: map-get($flaticon_Tulja GreenScape-map, "farming");
 }
 .flaticon-park:before {
-    content: map-get($flaticon_gadden-map, "park");
+    content: map-get($flaticon_Tulja GreenScape-map, "park");
 }
 .flaticon-rake:before {
-    content: map-get($flaticon_gadden-map, "rake");
+    content: map-get($flaticon_Tulja GreenScape-map, "rake");
 }
 .flaticon-growth-1:before {
-    content: map-get($flaticon_gadden-map, "growth-1");
+    content: map-get($flaticon_Tulja GreenScape-map, "growth-1");
 }
 .flaticon-landscape-1:before {
-    content: map-get($flaticon_gadden-map, "landscape-1");
+    content: map-get($flaticon_Tulja GreenScape-map, "landscape-1");
 }
 .flaticon-watering-can:before {
-    content: map-get($flaticon_gadden-map, "watering-can");
+    content: map-get($flaticon_Tulja GreenScape-map, "watering-can");
 }
 .flaticon-lawnmower:before {
-    content: map-get($flaticon_gadden-map, "lawnmower");
+    content: map-get($flaticon_Tulja GreenScape-map, "lawnmower");
 }
 .flaticon-spider-plant:before {
-    content: map-get($flaticon_gadden-map, "spider-plant");
+    content: map-get($flaticon_Tulja GreenScape-map, "spider-plant");
 }
 .flaticon-quote-1:before {
-    content: map-get($flaticon_gadden-map, "quote-1");
+    content: map-get($flaticon_Tulja GreenScape-map, "quote-1");
 }
 .flaticon-target:before {
-    content: map-get($flaticon_gadden-map, "target");
+    content: map-get($flaticon_Tulja GreenScape-map, "target");
 }
 .flaticon-vision:before {
-    content: map-get($flaticon_gadden-map, "vision");
+    content: map-get($flaticon_Tulja GreenScape-map, "vision");
 }
 .flaticon-management:before {
-    content: map-get($flaticon_gadden-map, "management");
+    content: map-get($flaticon_Tulja GreenScape-map, "management");
 }
 .flaticon-scissors:before {
-    content: map-get($flaticon_gadden-map, "scissors");
+    content: map-get($flaticon_Tulja GreenScape-map, "scissors");
 }
 .flaticon-watering:before {
-    content: map-get($flaticon_gadden-map, "watering");
+    content: map-get($flaticon_Tulja GreenScape-map, "watering");
 }
 .flaticon-yard:before {
-    content: map-get($flaticon_gadden-map, "yard");
+    content: map-get($flaticon_Tulja GreenScape-map, "yard");
 }
 .flaticon-growing:before {
-    content: map-get($flaticon_gadden-map, "growing");
+    content: map-get($flaticon_Tulja GreenScape-map, "growing");
 }
 .flaticon-quote-2:before {
-    content: map-get($flaticon_gadden-map, "quote-2");
+    content: map-get($flaticon_Tulja GreenScape-map, "quote-2");
 }

@@ -1,7 +1,7 @@
 /*-----------------------------------------------------------------------------------
-    Template Name: Gadden - Garden & Landscaping HTML Template
+    Template Name: Tulja GreenScape - Garden & Landscaping HTML Template
     Template URI: site.com
-    Description: Gadden is a creative & unique HTML template for Landscaping, Gardening, Groundskeeping, Lawn Services, Florists, Flower Shops and companies that offer related services.
+    Description: Tulja GreenScape is a creative & unique HTML template for Landscaping, Gardening, Groundskeeping, Lawn Services, Florists, Flower Shops and companies that offer related services.
     Author: WebTend 
     Author URI: https://webtend.net/
     Version: 1.0
