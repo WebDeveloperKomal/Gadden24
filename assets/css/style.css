@@ -6312,9 +6312,10 @@ ul.slick-dots li {
       margin-bottom: 60px; }
   .sidebar-panel-wrapper .sidebar-wrapper .sidebar-information-area .sidebar-info-widget .footer-logo {
     margin-bottom: 53px; }
-  .sidebar-panel-wrapper .sidebar-wrapper .sidebar-information-area .sidebar-info-widget p {
-    margin-bottom: 50px;
-    color: #aaa; }
+    .sidebar-panel-wrapper .sidebar-wrapper .sidebar-information-area .sidebar-info-widget p {
+      margin-bottom: 19px;
+      color: #aaa;
+  }
   .sidebar-panel-wrapper .sidebar-wrapper .sidebar-information-area .sidebar-info-widget .social-item h6 {
     margin-bottom: 20px; }
   .sidebar-panel-wrapper .sidebar-wrapper .sidebar-information-area .sidebar-info-widget .social-item ul.social-link li:not(:last-child) {
