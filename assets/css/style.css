@@ -184,7 +184,8 @@ iframe {
   display: inherit; }
 
 img {
-  max-width: 59%; }
+  max-width: 100%; }
+  
   .img1 {
     max-width: 45%;
     margin-left: 62px;
